@@ -40,6 +40,14 @@ A high-performance environment for speed-drawing and rhythmic practice.
 
 ---
 
+## 🚀 Getting Started
+
+Follow these steps to set up the Atelier on your local machine.
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) (Version 20 or higher recommended)
+- [npm](https://www.npmjs.com/)
+
 ## ⌨️ Universal Control Scheme
 
 ### 🛠️ Global Navigation
