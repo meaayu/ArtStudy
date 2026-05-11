@@ -1,11 +1,17 @@
-# ArtStudy 🎨
+<div align="center">
+  <img src="logo.svg" width="120" alt="ArtStudy Atelier Logo" />
+  <h1>ArtStudy Atelier</h1>
+  <p><i>The cinematic digital workspace for the modern draftsman.</i></p>
+  
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+</div>
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+---
 
-ArtStudy s a cinematic interactive designed for artists to study light, form, and anatomy in a distraction-free, high-fidelity environment. 
+ArtStudy Atelier is a cinematic interactive digital atelier designed for artists to study light, form, and anatomy in a distraction-free, high-fidelity environment. 
 
 Experience a professional-grade drawing workspace right in your browser, featuring real-time 3D models, gesture drawing sessions, and a precision-engineered brush engine.
 
