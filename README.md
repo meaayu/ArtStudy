@@ -1,6 +1,6 @@
 <div align="center">
   <img src="logo.svg" width="120" alt="ArtStudy Atelier Logo" />
-  <h1>ArtStudy Atelier</h1>
+  <h1>ArtStudy</h1>
   <p><i>A cinematic interactive digital atelier for high-fidelity light, form, and anatomy study.</i></p>
 
   [![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
@@ -39,14 +39,6 @@ A high-performance environment for speed-drawing and rhythmic practice.
 - **Zen Mode**: Toggle between High-Contrast White and Deep Charcoal canvases via simple keyboard shortcuts.
 
 ---
-
-## 🚀 Getting Started
-
-Follow these steps to set up the Atelier on your local machine.
-
-### Prerequisites
-- [Node.js](https://nodejs.org/) (Version 20 or higher recommended)
-- [npm](https://www.npmjs.com/)
 
 ## ⌨️ Universal Control Scheme
 
