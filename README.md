@@ -3,6 +3,8 @@
   <h1>ArtStudy</h1>
   <p><i>A cinematic interactive digital atelier for high-fidelity light, form, and anatomy study.</i></p>
 
+  [**Live Demo**](https://artstudy.vercel.app/)
+
   [![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
   [![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
   [![Three.js](https://img.shields.io/badge/Three.js-R160-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
