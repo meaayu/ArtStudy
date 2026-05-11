@@ -4,6 +4,7 @@
   <p><i>A cinematic interactive digital atelier for high-fidelity light, form, and anatomy study.</i></p>
 
   [![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+  [![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
   [![Three.js](https://img.shields.io/badge/Three.js-R160-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -64,6 +65,7 @@ A high-performance environment for speed-drawing and rhythmic practice.
 
 ## 🛠️ Technical Fabric
 
+- **Runtime**: Node.js 20+
 - **Framework**: React 19 + TypeScript
 - **3D Engine**: Three.js + React Three Fiber
 - **Vector Dynamics**: Custom HTML5 Canvas engine with offscreen stabilization and DPR-aware scaling.
