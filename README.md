@@ -1,6 +1,6 @@
 <div align="center">
   <img src="logo.svg" width="120" alt="ArtStudy Atelier Logo" />
-  <h1>ArtStudy Atelier</h1>
+  <h1>ArtStudy</h1>
   <p><i>The cinematic digital workspace for the modern draftsman.</i></p>
   
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
