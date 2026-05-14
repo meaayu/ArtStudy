@@ -1,9 +1,9 @@
 <div align="center">
   <img src="logo.svg" width="120" alt="ArtStudy Atelier Logo" />
-  <h1>ArtStudy</h1>
+  <h1>Arts-Lab</h1>
   <p><i>A cinematic interactive digital atelier for high-fidelity light, form, and anatomy study.</i></p>
 
-  [**Live Demo**](https://art-study.netlify.app/)
+  [**Live Demo**](https://arts-lab.netlify.app/)
 
   [![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
   [![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -16,7 +16,7 @@
 
 ## 🏛️ The Philosophy
 
-**ArtStudy** is designed as a distraction-free, high-performance workspace for the modern draftsman. Inspired by traditional ateliers and cinematic rendering, it bridges the gap between digital convenience and classical anatomical study. Every module is engineered for **flow**, providing the tools necessary for precision without the clutter of traditional creative software.
+**Arts-Lab** is designed as a distraction-free, high-performance workspace for the modern draftsman. Inspired by traditional ateliers and cinematic rendering, it bridges the gap between digital convenience and classical anatomical study. Every module is engineered for **flow**, providing the tools necessary for precision without the clutter of traditional creative software.
 
 ## 🎨 Professional Modules
 
